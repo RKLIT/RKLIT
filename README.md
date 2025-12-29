@@ -14,5 +14,5 @@ Currently gaining hands-on experience with different DevOps tools and technologi
 
 ## 💻 Hands-on Experience
 1. **DevOps Engineer Trainee**
-2.
-3. FrogEST OÜ
+
+FrogEST OÜ
