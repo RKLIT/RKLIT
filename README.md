@@ -22,5 +22,15 @@ FrogEST OÜ
 - CI/CD Experience: Set up automation processes using Docker Compose and Dockerfile, automating the build, testing, and deployment of applications, which accelerated release cycles and reduced deployment errors.
 - Set up monitoring and metric collection by integrating Prometheus, Node Exporter, and MySQL Exporter, enhancing data visibility and server status control. Ensured seamless application operation by establishing network connections across multiple Docker Compose files and troubleshooting network-related issues.
 
+**IT System Administrator**  
+Tallinna Teeninduskool
+- Managed networks and troubleshooting (Exp.: Solution for the Ethernet connection issue on the PC )
+- Monitored and upgraded (IP addresses, network equipment)
+- Worked with VLANs (Divided the network into several subnets)
+- Worked with Windows Server, and Active Directory (DNS, Groups, Account Users, etc.)
+- Administered databases ( students data )
+- Managed Microsoft Office 365 and servers troubleshooting
+- Installed and configured switches, routers, and other equipment
+- Performed cable management and filled databases
 
 
