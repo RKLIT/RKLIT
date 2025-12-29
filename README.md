@@ -16,5 +16,11 @@ Currently gaining hands-on experience with different DevOps tools and technologi
 
 **DevOps Engineer Trainee**  
 FrogEST OÜ  
-- Worked with Docker and CI/CD pipelines  
-- Assisted in server configuration and monitoring
+- Worked with Docker: Deployed containers for various applications, ensuring portability and isolation.
+- Installed PrestaShop: Successfully installed and configured PrestaShop within a Docker container using Docker Compose, streamlining deployment and management.
+- Experience with Apache and MariaDB: Configured and integrated Apache web server and MariaDB database in a containerized environment, ensuring seamless interaction between them.
+- CI/CD Experience: Set up automation processes using Docker Compose and Dockerfile, automating the build, testing, and deployment of applications, which accelerated release cycles and reduced deployment errors.
+- Set up monitoring and metric collection by integrating Prometheus, Node Exporter, and MySQL Exporter, enhancing data visibility and server status control. Ensured seamless application operation by establishing network connections across multiple Docker Compose files and troubleshooting network-related issues.
+
+
+
