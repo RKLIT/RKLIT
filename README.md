@@ -13,5 +13,8 @@ Currently gaining hands-on experience with different DevOps tools and technologi
 - **Languages:** Bash, Python
 
 ## 💻 Hands-on Experience
-1. **DevOps Engineer Trainee**
-- FrogEST OÜ
+
+**DevOps Engineer Trainee**  
+FrogEST OÜ  
+- Worked with Docker and CI/CD pipelines  
+- Assisted in server configuration and monitoring
