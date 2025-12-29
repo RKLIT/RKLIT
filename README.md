@@ -33,4 +33,12 @@ Tallinna Teeninduskool
 - Installed and configured switches, routers, and other equipment
 - Performed cable management and filled databases
 
+## 💻 Let's connect
 
+| Platform  | Details |
+|----------|---------|
+| 📧 Email | [k.roma20031@gmail.com](mailto:k.roma20031@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/rklit](https://www.linkedin.com/in/rklit/) |
+| 📸 Instagram | [linkedin.com/in/rklit](https://www.instagram.com/rklit_tk) |
+| 💬 Telegram | [@rklit_tk](https://t.me/rklit_tk) |
+| 🧑‍💻 GitHub | [github.com/RKLIT](https://github.com/RKLIT) |
