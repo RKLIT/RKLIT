@@ -6,7 +6,10 @@ Currently gaining hands-on experience with different DevOps tools and technologi
 ## 🛠️ Tech Stack
 - **Operating Systems:** Windows, Windows Server, Linux, Linux Server
 - **Networking:** TCP/IP, DNS, HTTP(S), SSH, Proxy
-- **Monitoring:** Prometheus
+- **Monitoring:** Prometheus/Grafana
+- **Cloud:** Amazon Web Services (AWS)
+- **Infrastructure as Code (IaC):** Ansible
+- **Сontainer Orchestration Platforms:** Kubernetes
 - **Version Control:** Git
 - **Containerization:** Docker, Docker Compose, Docker Swarm
 - **Web Servers:** Nginx, Apache
