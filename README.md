@@ -39,7 +39,7 @@ FrogEST OÜ
  communication.
 
 **IT System Administrator**  
-Tallinna Teeninduskool
+Tallinn Service School
 
 Network Administration & Technical Support
 
