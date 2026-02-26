@@ -1,6 +1,6 @@
 ### Hi, I'm Roman 👋
 
-I'm a Junior DevOps Engineer interested in working on modern projects.  
+I'm a DevOps Engineer interested in working on modern projects.  
 Currently gaining hands-on experience with different DevOps tools and technologies.
 
 ## 🛠️ Tech Stack
