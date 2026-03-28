@@ -8,7 +8,7 @@ Currently gaining hands-on experience with different DevOps tools and technologi
 - **Networking:** TCP/IP, DNS, HTTP(S), SSH, Proxy
 - **Monitoring:** Prometheus/Grafana
 - **Cloud:** Amazon Web Services (AWS)
-- **Infrastructure as Code (IaC):** Ansible
+- **Infrastructure as a Code (IaaC):** Ansible
 - **Сontainer Orchestration Platforms:** Kubernetes
 - **Version Control:** Git
 - **Containerization:** Docker, Docker Compose, Docker Swarm
